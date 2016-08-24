@@ -8,6 +8,9 @@ A personal collection of Python templates to get live Tweets from different topi
 - Twitter API
   https://dev.twitter.com/
 
+- Sentiment Analysis by Pattern(CLiPS)
+  http://www.clips.ua.ac.be/pattern
+
 # Instructions:
 
 Just add the API keys, and start your engines:
